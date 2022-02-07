@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+.object{
+    background-color: cornflowerblue;
+    font-size:35px;
+    font-family:fantasy;
+}
+canvas{
+    border:solid 5px blue ;
+    margin-top:150px ;
+}
